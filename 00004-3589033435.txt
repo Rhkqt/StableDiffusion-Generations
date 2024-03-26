@@ -1,0 +1,2 @@
+photo of emma watson, (wearing skimpy black transparent see through shirt with stockings:1.1), (((big boobs))), spreading legs, neck choker, red lips, blue eyes
+Steps: 50, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3589033435, Size: 512x768, Model hash: 93ed864a22, Model: cyberrealistic_v42, Version: 1.8.0-RC
